@@ -1,0 +1,30 @@
+{
+  "name": "babelPlayground",
+  "version": "1.0.0",
+  "description": "use to transpile js with babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmeeks91/babelPlayground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmeeks91/babelPlayground/issues"
+  },
+  "homepage": "https://github.com/dmeeks91/babelPlayground#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "framework7": "^3.5.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
